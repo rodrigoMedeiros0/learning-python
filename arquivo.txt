@@ -1,0 +1,2 @@
+Treinamento de Python.
+Alterando dentro do texto com Python.
